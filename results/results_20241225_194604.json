@@ -1,0 +1,192 @@
+{
+  "name": "Multiple Choice Evaluation",
+  "description": "Evaluation of model performance on multiple choice questions",
+  "test_cases": [
+    {
+      "id": "q3",
+      "type": "multiple_choice",
+      "input": "What is the significance of regularization in terms of renormalization problems in physics?",
+      "expected_output": "A",
+      "actual_output": "A",
+      "passed": true,
+      "metadata": {
+        "options": {
+          "A": "Regularizing the mass-energy of an electron with a finite radius can theoretically simplify calculations involving infinities or singularities, thereby providing explanations that would otherwise be impossible to achieve.",
+          "B": "Regularizing the mass-energy of an electron with an infinite radius allows for the breakdown of a theory that is valid under one set of conditions. This approach can be applied to other renormalization problems as well.",
+          "C": "Regularizing the mass-energy of an electron with a finite radius is a means of demonstrating that a system below a certain size can be explained without the need for further calculations. This approach can be applied to other renormalization problems as well.",
+          "D": "Regularizing the mass-energy of an electron with an infinite radius can be used to provide a highly accurate description of a system under specific conditions. This approach can be transferred to other renormalization problems as well.",
+          "E": "Regularizing the mass-energy of an electron with an infinite radius is essential for explaining how a system below a certain size operates. This approach can be applied to other renormalization problems as well."
+        },
+        "error": null,
+        "timestamp": "2024-12-25T19:45:39.756344"
+      },
+      "duration": 11.345476150512695,
+      "retries": 0,
+      "error_messages": []
+    },
+    {
+      "id": "q8",
+      "type": "multiple_choice",
+      "input": "What is the term used in astrophysics to describe light-matter interactions resulting in energy shifts in the radiation field?",
+      "expected_output": "B",
+      "actual_output": "B",
+      "passed": true,
+      "metadata": {
+        "options": {
+          "A": "Blueshifting",
+          "B": "Redshifting",
+          "C": "Reddening",
+          "D": "Whitening",
+          "E": "Yellowing"
+        },
+        "error": null,
+        "timestamp": "2024-12-25T19:45:39.765233"
+      },
+      "duration": 13.178494215011597,
+      "retries": 0,
+      "error_messages": []
+    },
+    {
+      "id": "q13",
+      "type": "multiple_choice",
+      "input": "What is the Roche limit?",
+      "expected_output": "E",
+      "actual_output": "E",
+      "passed": true,
+      "metadata": {
+        "options": {
+          "A": "The Roche limit is the distance at which tidal effects would cause an object to rotate since the forces exerted by two massive bodies produce a torque on a third object.",
+          "B": "The Roche limit is the distance at which tidal effects would cause an object to unite since differential force from a planet results in parts becoming attracted to one another.",
+          "C": "The Roche limit is the distance at which tidal effects would cause a planet to disintegrate since differential force from an object overcomes the planet's core.",
+          "D": "The Roche limit is the distance at which tidal effects would cause an object to disintegrate since differential force from a planet overcomes the attraction of the parts between them.",
+          "E": "The Roche limit is the distance at which tidal effects would cause an object to break apart due to differential force from the planet overcoming the attraction of the parts of the object for one another, which depends on the object's density and composition, as well as the mass and size of the planet."
+        },
+        "error": null,
+        "timestamp": "2024-12-25T19:45:39.780550"
+      },
+      "duration": 6.199729919433594,
+      "retries": 0,
+      "error_messages": []
+    },
+    {
+      "id": "q15",
+      "type": "multiple_choice",
+      "input": "What is the \"ultraviolet catastrophe\"?",
+      "expected_output": "D",
+      "actual_output": "D",
+      "passed": true,
+      "metadata": {
+        "options": {
+          "A": "It is a phenomenon that occurs only in multi-mode vibration.",
+          "B": "It is the misbehavior of a formula for higher frequencies.",
+          "C": "It is the standing wave of a string in harmonic resonance.",
+          "D": "It is a flaw in classical physics that results in the misallocation of energy.",
+          "E": "It is a disproven theory about the distribution of electromagnetic radiation."
+        },
+        "error": null,
+        "timestamp": "2024-12-25T19:45:39.790658"
+      },
+      "duration": 5.988486051559448,
+      "retries": 0,
+      "error_messages": []
+    },
+    {
+      "id": "q65",
+      "type": "multiple_choice",
+      "input": "What is the relevant type of coherence for the Young's double-slit interferometer?",
+      "expected_output": "C",
+      "actual_output": "C",
+      "passed": true,
+      "metadata": {
+        "options": {
+          "A": "Visibility",
+          "B": "Coherence time",
+          "C": "Spatial coherence",
+          "D": "Coherence length",
+          "E": "Diameter of the coherence area (Ac)"
+        },
+        "error": null,
+        "timestamp": "2024-12-25T19:45:39.797624"
+      },
+      "duration": 6.801125764846802,
+      "retries": 0,
+      "error_messages": []
+    },
+    {
+      "id": "q71",
+      "type": "multiple_choice",
+      "input": "What is the main focus of cryogenic and noble liquid detectors in dark matter experiments?",
+      "expected_output": "D",
+      "actual_output": "D",
+      "passed": true,
+      "metadata": {
+        "options": {
+          "A": "Distinguishing background particles from dark matter particles by detecting the heat produced when a particle hits an atom in a crystal absorber or the scintillation produced by a particle collision in liquid xenon or argon.",
+          "B": "Detecting the heat produced when a particle hits an atom in a crystal absorber or the scintillation produced by a particle collision in liquid xenon or argon to determine the mass and interaction cross section with electrons of dark matter particles.",
+          "C": "Detecting the heat produced when a particle hits an atom in a crystal absorber or the scintillation produced by a particle collision in liquid xenon or argon to distinguish between different types of background particles.",
+          "D": "Detecting the heat produced when a particle hits an atom in a crystal absorber or the scintillation produced by a particle collision in liquid xenon or argon to determine the mass and interaction cross section with nucleons of dark matter particles.",
+          "E": "Detecting the mass and interaction cross section with nucleons of dark matter particles by detecting the heat produced when a particle hits an atom in a crystal absorber or the scintillation produced by a particle collision in liquid xenon or argon."
+        },
+        "error": null,
+        "timestamp": "2024-12-25T19:45:53.945204"
+      },
+      "duration": 8.780784845352173,
+      "retries": 0,
+      "error_messages": []
+    },
+    {
+      "id": "q132",
+      "type": "multiple_choice",
+      "input": "What is the main factor that determines the occurrence of each type of supernova?",
+      "expected_output": "B",
+      "actual_output": "D",
+      "passed": false,
+      "metadata": {
+        "options": {
+          "A": "The star's distance from Earth",
+          "B": "The star's age",
+          "C": "The star's temperature",
+          "D": "The star's luminosity",
+          "E": "The progenitor star's metallicity"
+        },
+        "error": null,
+        "timestamp": "2024-12-25T19:45:53.955871"
+      },
+      "duration": 8.716455936431885,
+      "retries": 0,
+      "error_messages": []
+    },
+    {
+      "id": "q196",
+      "type": "multiple_choice",
+      "input": "What is the throttling process, and why is it important?",
+      "expected_output": "C",
+      "actual_output": "B",
+      "passed": false,
+      "metadata": {
+        "options": {
+          "A": "The throttling process is a steady flow of a fluid through a flow resistance, such as a valve or porous plug, and is responsible for the pressure increase in domestic refrigerators. This process is important because it is at the heart of the refrigeration cycle.",
+          "B": "The throttling process is a steady adiabatic flow of a fluid through a flow resistance, such as a valve or porous plug, and is responsible for the temperature drop in domestic refrigerators. This process is important because it is at the heart of the refrigeration cycle.",
+          "C": "The throttling process is a steady adiabatic flow of a fluid through a flow resistance, such as a valve or porous plug, and is responsible for the pressure drop in domestic refrigerators. This process is important because it is at the heart of the refrigeration cycle.",
+          "D": "The throttling process is a steady flow of a fluid through a flow resistance, such as a valve or porous plug, and is responsible for the temperature increase in domestic refrigerators. This process is important because it is at the heart of the refrigeration cycle.",
+          "E": "The throttling process is a steady adiabatic flow of a fluid through a flow resistance, such as a valve or porous plug, and is responsible for the temperature drop in domestic refrigerators. This process is not important because it is not used in the refrigeration cycle."
+        },
+        "error": null,
+        "timestamp": "2024-12-25T19:45:53.963998"
+      },
+      "duration": 9.23176908493042,
+      "retries": 0,
+      "error_messages": []
+    }
+  ],
+  "metadata": {
+    "timestamp": "2024-12-25T19:46:04.200102",
+    "total_tests": 8,
+    "passed_tests": 6,
+    "failed_tests": 2,
+    "accuracy": 75.0,
+    "average_duration": 8.780290246009827,
+    "total_retries": 0,
+    "error_rate": 0.0
+  }
+}
